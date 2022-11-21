@@ -1,3 +1,14 @@
+# Agregar archivo .env
+Debe crear un archivo .env
+
+```bash
+SECRET_KEY="mysecretkey"
+FLASK_APP=main.py
+FLASK_DEBUG=1
+FLASK_ENV=development
+SQLALCHEMY_DATABASE_URI=mysql://root:root@127.0.0.1:3306/crud_colegio
+```
+
 # Flask docs
 
 Doc for setting up Flask
