@@ -1,4 +1,5 @@
-# Agregar archivo .env
+# Consideraciones para la instalación
+## Agregar archivo .env
 Debe crear un archivo .env
 
 ```bash
